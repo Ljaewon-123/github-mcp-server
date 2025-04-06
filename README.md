@@ -1,3 +1,5 @@
+I'd like to try integrating with other services.
+---
 # GitHub MCP Server
 
 The GitHub MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)
